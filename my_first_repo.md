@@ -162,5 +162,6 @@ git reflog
 ```
 Разрешаем конфликт редактировав текст в GitHab 
 
-Стоит закрепить урок с конфликтами., редактирую текст на удалённом репозитории и пишу текст на Русском языке, а на локальном  напишу текст на английском., и попробую слить их решив конфликт.
+
+## It is worth consolidating the lesson with conflicts, edit the text on the remote conflict repository and write the text in Russian, and write the text in English in the local language, and try to merge them by solving them.
 
