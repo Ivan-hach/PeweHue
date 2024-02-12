@@ -160,3 +160,5 @@ git branch
 ```sh
 git reflog
 ```
+Разрешаем конфликт редактировав текст в GitHab 
+
